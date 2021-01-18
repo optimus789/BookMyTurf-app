@@ -19,7 +19,7 @@ out/
 # Gradle files
 .gradle/
 build/
-#android/app/src/main/AndroidManifest.xml
+android/app/src/main/AndroidManifest.xml
 
 # Local configuration file (sdk path, etc)
 local.properties
